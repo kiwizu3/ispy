@@ -1,0 +1,31 @@
+.navbar{
+    position: relative !important;
+}
+
+.masthead{
+    background:url("img/home-bg.jpg");
+    height: 915px;
+}
+
+.subheading{
+    color:#212121;
+}
+
+.what{
+    background: #9747DF;
+    height: auto;
+    margin-top: -4%;
+}
+
+.content01{
+    color: #fff;
+    padding-top: 10%;
+}
+
+.img01{
+    width: 100%;
+}
+
+.paragraph{
+
+}
